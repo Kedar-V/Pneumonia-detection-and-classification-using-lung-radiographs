@@ -1,4 +1,5 @@
 # Pneumonia Detection and Classification using Lung Radiographs
+### Developed by: Kedar Vaidya & Sanya Anil Chetwani
 
 #### Challenge Via Kaggle : SIIM-FISABIO-RSNA COVID-19 Detection (https://www.kaggle.com/c/siim-covid19-detection/overview)
 ## Task :
